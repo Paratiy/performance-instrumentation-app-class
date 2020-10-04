@@ -1,0 +1,17 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/home/carioca/Dropbox/UnifacefLabs/Performance_Pedro/src/routes/index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /home/carioca/Dropbox/UnifacefLabs/Performance_Pedro/bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
